@@ -1,0 +1,4 @@
+Log file created at: 2014/05/29 16:49:44
+Running on machine: MichaeldeMacBook-Pro.local
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0529 16:49:44.663822 2065261328 test.cpp:15] this is a google log test

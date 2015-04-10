@@ -1,0 +1,1 @@
+g++ -stdlib=libstdc++ -L/usr/local/lib -lglog test.cpp -o test
